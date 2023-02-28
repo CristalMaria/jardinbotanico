@@ -1,2 +1,2 @@
-# jardinbotanico
+# tienda botanico
 hola
